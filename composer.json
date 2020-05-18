@@ -1,8 +1,8 @@
 {
-  "name": "inviqa/sitemapshreflang",
+  "name": "nenzark/sitemapshreflang",
   "description": "Inviqa - SitemapsHreflang Component",
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimum-stability": "dev",
   "require": {
     "php": "~7.0.0|7.1.0|7.2.0|7.3.0"
